@@ -46,3 +46,22 @@
 .categoris img{
     width: 100px;
 }
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.backpack{
+    border: none;
+}
+#Subcribe{
+    height: 300px;
+}
+#Subcribe h6{
+    color: gray;
+}
+.copy{
+    text-align: center;
+}
